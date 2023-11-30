@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {book} from 'C:/Users/Christian/Documents/angular C.C.M/angular-bootIt/BookIt/src/app/shared/book/book.model'
+import {book} from 'C:/Users/Christian/Documents/angular C.C.M/angular-bootIt/BookIt/Bookit/src/app/shared/book/book.model'
 
 @Component({
   selector: 'app-book-list',
